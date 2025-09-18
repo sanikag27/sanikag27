@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanika-gokakkar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanika.gokakkar@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/sanika-gokakkar)
+- [GitHub](https://github.com/sanikag27)
+- [Email](sanika.gokakkar@gmail.com)
 
 # 💻 Tech Stack:
 ### Programming Languages
