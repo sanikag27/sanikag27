@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/sanika-gokakkar)
-- [GitHub](https://github.com/sanikag27)
-- [Email](sanika.gokakkar@gmail.com)
+Feel free to reach out via:
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanika-gokakkar)
+- 👩‍💻 [GitHub](https://github.com/sanikag27)
+- ✉️ [Email](sanika.gokakkar@gmail.com)
 
 # 💻 Tech Stack:
 ### Programming Languages
