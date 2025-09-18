@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🔭 I enjoy exploring complex data, uncovering patterns and trends, and building intelligent solutions that turn information into actionable insights.
 - 🤔 I am looking to collaborate on projects involving computational optimization, AI applications, or data-driven solutions.
+- ⚡ My goal is to translate complex data into insights that non-technical users can understand, bridging the gap between technical systems and stakeholders who rely on them through clear visualizations, dashboards, and intuitive tools that make data actionable and meaningful.
 
 # What Fuels My Curiosity
 - Exploring complex data to uncover patterns, trends, and stories
