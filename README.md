@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I am working on developing a conversational AI chatbot using Llama 3.3, LangChain, and RAG for enterprise data queries with vector retrieval techniques.
-- 🤔 I am looking to collaborate on projects involving computational optimization, AI applications for crisis response, or data-driven solutions.
-- 🌱 I am currently learning advanced techniques in neural networks, large-scale computing, and retrieval-augmented generation (RAG) to enhance natural language processing (NLP) capabilities
+- 🔭 I enjoy exploring complex data, uncovering patterns and trends, and building intelligent solutions that turn information into actionable insights.
+- 🤔 I am looking to collaborate on projects involving computational optimization, AI applications, or data-driven solutions.
+
+# What Fuels My Curiosity
+- Exploring complex data to uncover patterns, trends, and stories
+- Continuously learning, experimenting, and refining until the patterns make sense
+- Tackling real-world challenges and making solutions people can actually use
+- Building tools that are scalable, reliable, and built to last
+- Balancing logic with creativity, treating data like both numbers and colors on a canvas
+
 
 
 ## 🌐 Socials:
