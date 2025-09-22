@@ -25,14 +25,6 @@ Here are some ideas to get you started:
 - Building tools that are scalable, reliable, and built to last
 - Balancing logic with creativity, treating data like both numbers and colors on a canvas
 
-
-
-## 🌐 Socials:
-Feel free to reach out via:
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanika-gokakkar)
-- 👩‍💻 [GitHub](https://github.com/sanikag27)
-- ✉️ [Email](sanika.gokakkar@gmail.com)
-
 # 💻 Tech Stack:
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,6 +61,11 @@ Feel free to reach out via:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-2C5BB4.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
+## 🌐 Socials:
+Feel free to reach out via:
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanika-gokakkar)
+- 👩‍💻 [GitHub](https://github.com/sanikag27)
+- ✉️ [Email](sanika.gokakkar@gmail.com)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanikag27&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
