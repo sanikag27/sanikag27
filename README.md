@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-%230072C6.svg?style=for-the-badge&logo=sas&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-5470FF.svg?style=for-the-badge&logo=vectorworks&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-1F4E79?logo=neo4j&logoColor=white&style=for-the-badge)
 
 ### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
