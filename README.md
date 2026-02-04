@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 
 ### Development Tools
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-2C5BB4.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## 🌐 Socials:
